@@ -1,4 +1,6 @@
 Attached Internship report in the Repository
+
+
 Project Overview
 During my internship, I developed an Employee Management System using Vue.js for the frontend and Node.js with Express for the backend. The application facilitates user registration and login, allowing employees to manage their accounts efficiently.
 Key Features
